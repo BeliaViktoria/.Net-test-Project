@@ -1,0 +1,34 @@
+﻿@model DAL.Models.Order
+@{
+    ViewData["Title"] = "Order";
+    ViewData["userId"] = Model.UserID;
+}
+
+<form class="section" asp-action="UpdateOrder">
+    <h1 class="title">@ViewData["Title"]</h1>
+    <section>
+        <input asp-for="OrderID" type="hidden" value="@Model.OrderID" />
+    </section>
+    <section>
+        <input asp-for="UserID" type="hidden" value="@Model.UserID" />
+    </section>
+    <section>
+        <label asp-for="OrderDate">Order date:</label>
+        <input asp-for="OrderDate" type="datetime" value=@Model.OrderDate/>
+    </section>
+    <section>
+        <label asp-for="OrderCost">Order cost:</label>
+        <input asp-for="OrderCost" value=@Model.OrderCost/>
+    </section>
+    <section>
+        <label asp-for="ItemsDescription">Items description:</label>
+        <input asp-for="ItemsDescription" value=@Model.ItemsDescription/>
+    </section>
+    <section>
+        <label asp-for="ShippingAddress">Shipping address:</label>
+        <input asp-for="ShippingAddress" value=@Model.ShippingAddress/>
+    </section>
+    <section>
+        <input class="button" type="submit" value="Save" />
+    </section>
+</form>

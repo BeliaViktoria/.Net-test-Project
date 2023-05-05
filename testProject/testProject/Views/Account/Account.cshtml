@@ -1,0 +1,47 @@
+﻿@model DAL.Models.User
+@{
+    ViewData["Title"] = "Account";
+    ViewData["userId"] = Model.UserID;
+}
+
+<form class="section">
+    <h1 class="title">@ViewData["Title"]</h1>
+    <section>
+        <input asp-for="UserID" type="hidden" value="@Model.UserID" />
+    </section>
+    <section>
+        <label asp-for="Login">Login:</label>
+        <input asp-for="Login" value=@Model.Login/>
+    </section>
+    <section>
+        <label asp-for="FirstName">First name:</label>
+        <input asp-for="FirstName" value=@Model.FirstName/>
+    </section>
+    <section>
+        <label asp-for="LastName">Last name:</label>
+        <input asp-for="LastName" value=@Model.LastName/>
+    </section>
+    <section>
+        <label asp-for="DateOfBirth">Birth date:</label>
+        @if (Model.DateOfBirth == null) 
+        {
+            <input asp-for="DateOfBirth" type="date" />
+        }
+        else
+        {
+            <input asp-for="DateOfBirth" type="date" value=@Model.DateOfBirth.Value.ToString("yyyy-MM-dd")/>
+        }
+    </section>
+    <section>
+        <label asp-for="Gender">Gender (M/F):</label>
+        <input asp-for="Gender" value=@Model.Gender/>
+    </section>
+    <section>
+        <label asp-for="Password">Password:</label>
+        <input asp-for="Password" type="password" />
+    </section>
+    <section>
+        <input class="button" type="submit" asp-action="UpdateAccount" value="Update" />
+        <input class="button" type="submit" asp-action="DeleteAccount" value="Delete" />
+    </section>
+</form>

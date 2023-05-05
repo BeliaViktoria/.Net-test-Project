@@ -1,0 +1,44 @@
+﻿@model KeyValuePair<int, IEnumerable<DAL.Models.Order>>
+@{
+    ViewData["Title"] = "OrdersList";
+    ViewData["userId"] = Model.Key;
+
+    string[] tableHeaders = new string[]
+    {
+        "ID",
+        "Date",
+        "Cost",
+        "Items Description",
+        "Shipping Address"
+    };
+}
+
+<div>
+    <h1 class="title">@ViewData["Title"]</h1>
+    <table class="table">
+        <thead>
+            @foreach (var head in tableHeaders)
+            {
+                <th>@head</th>
+            }
+            <th />
+            <th />
+        </thead>
+
+        <tbody>
+            @foreach (var order in Model.Value)
+            {
+                <tr class="tableRow">
+                    <td>@order.OrderID</td>
+                    <td>@order.OrderDate</td>
+                    <td>@order.OrderCost</td>
+                    <td>@order.ItemsDescription</td>
+                    <td>@order.ShippingAddress</td>
+                    <td><a class="navigationItem" asp-area="" asp-controller="Order" asp-action="Order" asp-route-orderId=@order.OrderID>Update</a></td>
+                    <td><a class="navigationItem" asp-area="" asp-controller="Order" asp-action="DeleteOrder" asp-route-orderId=@order.OrderID>Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a class="rightButton" asp-area="" asp-controller="Order" asp-action="CreateOrder" asp-route-userId=@ViewData["userId"]>Add</a>
+</div>

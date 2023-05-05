@@ -1,0 +1,30 @@
+D:\me\c# project\testProject\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\me\c# project\testProject\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\me\c# project\testProject\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\me\c# project\testProject\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\me\c# project\testProject\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\me\c# project\testProject\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\me\c# project\testProject\BLL\bin\Debug\net6.0\BLL.dll
+D:\me\c# project\testProject\BLL\bin\Debug\net6.0\BLL.pdb
+D:\me\c# project\testProject\BLL\obj\Debug\net6.0\BLL.dll
+D:\me\c# project\testProject\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\me\c# project\testProject\BLL\obj\Debug\net6.0\BLL.pdb
+D:\me\c# project\testProject\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\me\c# project\testProject\BLL\bin\Debug\net6.0\DAL.dll
+D:\me\c# project\testProject\BLL\bin\Debug\net6.0\DAL.pdb
+D:\me\c# project\testProject\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\me\.Net-test-Project\testProject\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\me\.Net-test-Project\testProject\BLL\bin\Debug\net6.0\BLL.dll
+D:\me\.Net-test-Project\testProject\BLL\bin\Debug\net6.0\BLL.pdb
+D:\me\.Net-test-Project\testProject\BLL\bin\Debug\net6.0\DAL.dll
+D:\me\.Net-test-Project\testProject\BLL\bin\Debug\net6.0\DAL.pdb
+D:\me\.Net-test-Project\testProject\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\me\.Net-test-Project\testProject\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\me\.Net-test-Project\testProject\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\me\.Net-test-Project\testProject\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\me\.Net-test-Project\testProject\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\me\.Net-test-Project\testProject\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\me\.Net-test-Project\testProject\BLL\obj\Debug\net6.0\BLL.dll
+D:\me\.Net-test-Project\testProject\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\me\.Net-test-Project\testProject\BLL\obj\Debug\net6.0\BLL.pdb
+D:\me\.Net-test-Project\testProject\BLL\obj\Debug\net6.0\ref\BLL.dll

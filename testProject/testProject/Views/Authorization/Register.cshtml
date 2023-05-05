@@ -1,0 +1,43 @@
+﻿@model DAL.Models.User
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_AuthorizationLayout.cshtml";
+}
+
+<form class="section" asp-action="Register">
+    <h1 class="title">@ViewData["Title"]</h1>
+    <section>
+        <label asp-for="Login">Login:</label>
+        <input asp-for="Login" />
+    </section>
+    <section>
+        <label asp-for="FirstName">First name:</label>
+        <input asp-for="FirstName" />
+    </section>
+    <section>
+        <label asp-for="LastName">Last name:</label>
+        <input asp-for="LastName" />
+    </section>
+    <section>
+        <label asp-for="DateOfBirth">Birth date:</label>
+        <input asp-for="DateOfBirth", type="date" />
+    </section>
+    <section>
+        <label asp-for="Gender">Gender (M/F):</label>
+        <input asp-for="Gender" />
+        <span asp-validation-for="Gender"></span>
+    </section>
+    <section>
+        <label asp-for="Password">Password:</label>
+        <input asp-for="Password" type="password" />
+    </section>
+    <section>
+        <label>Confirm password:</label>
+        <input type="password" />
+    </section>
+    <section>
+        <span>Already have an account?</span>
+        <a class="navigationItem" asp-area="" asp-controller="Authorization" asp-action="Login">Login</a>
+    </section>
+    <input class="button" type="submit" value="Register" />
+</form>

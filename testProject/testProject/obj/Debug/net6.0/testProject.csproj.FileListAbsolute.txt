@@ -1,0 +1,156 @@
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.csproj.AssemblyReference.cache
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.AssemblyInfoInputs.cache
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.AssemblyInfo.cs
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.csproj.CoreCompileInputs.cache
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.MvcApplicationPartsAssemblyInfo.cache
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.RazorAssemblyInfo.cache
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.RazorAssemblyInfo.cs
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\appsettings.Development.json
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\appsettings.json
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\testProject.staticwebassets.runtime.json
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\testProject.exe
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\testProject.deps.json
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\testProject.runtimeconfig.json
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\testProject.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\testProject.pdb
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Azure.Core.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Azure.Identity.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\System.Memory.Data.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\BLL.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\DAL.dll
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\BLL.pdb
+D:\me\c# project\testProject\testProject\bin\Debug\net6.0\DAL.pdb
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\scopedcss\bundle\testProject.styles.css
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\scopedcss\projectbundle\testProject.bundle.scp.css
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.csproj.CopyComplete
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.dll
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\refint\testProject.dll
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.pdb
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\testProject.genruntimeconfig.cache
+D:\me\c# project\testProject\testProject\obj\Debug\net6.0\ref\testProject.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\appsettings.Development.json
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\appsettings.json
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\testProject.staticwebassets.runtime.json
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\testProject.exe
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\testProject.deps.json
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\testProject.runtimeconfig.json
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\testProject.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\testProject.pdb
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Azure.Core.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Azure.Identity.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\System.Memory.Data.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\BLL.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\DAL.dll
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\BLL.pdb
+D:\me\.Net-test-Project\testProject\testProject\bin\Debug\net6.0\DAL.pdb
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.csproj.AssemblyReference.cache
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.AssemblyInfoInputs.cache
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.AssemblyInfo.cs
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.csproj.CoreCompileInputs.cache
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.MvcApplicationPartsAssemblyInfo.cache
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.RazorAssemblyInfo.cache
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.RazorAssemblyInfo.cs
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\scopedcss\bundle\testProject.styles.css
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\scopedcss\projectbundle\testProject.bundle.scp.css
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.csproj.CopyComplete
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.dll
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\refint\testProject.dll
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.pdb
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\testProject.genruntimeconfig.cache
+D:\me\.Net-test-Project\testProject\testProject\obj\Debug\net6.0\ref\testProject.dll

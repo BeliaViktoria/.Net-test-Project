@@ -16,3 +16,51 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+
+.section {
+    color: #5A5A5A;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5% 35%;
+    font-size: 14px;
+}
+
+.title {
+    font-size: 24px;
+    text-align: center;
+}
+
+label {
+    margin: 15px 0 0;
+}
+
+input {
+    width: 100%;
+}
+
+.button {
+    background-color: #5A5A5A;
+    color: #FFFFFF;
+    width: 100%;
+    padding: 5px 0;
+    margin: 10px 0 0 0;
+    text-decoration: none;
+}
+
+.navigationItem {
+    color: #5A5A5A;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.table {
+    width: 100%;
+}
+
+.rightButton {
+    background-color: #5A5A5A;
+    color: #FFFFFF;
+    padding: 5px 30px;
+    margin: 10px 0 0 85%;
+    text-decoration: none;
+}
